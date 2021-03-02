@@ -1,0 +1,39 @@
+body{
+    /*margin: 0%;*/
+    font-size: 16px;
+}
+.cabecera{
+    background: linear-gradient(#21C08B, rgb(163, 176, 201));
+    border-radius: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+}
+.card{
+    background-color: rgb(228, 190, 95);
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+    margin: 10px;
+}
+.card p{
+    padding: 10px;
+}
+section{
+    display: flex;
+    justify-content: space-between;
+}
+footer{
+    text-align: center;
+}
+ul li{
+    list-style: none;
+    margin-bottom: 10px;
+}
+.borde{
+    border: 2px solid rgb(85, 34, 34);
+    border-radius: 5px;
+}
